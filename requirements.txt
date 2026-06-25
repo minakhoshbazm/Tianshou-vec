@@ -1,0 +1,25 @@
+# Core RL Framework
+tianshou>=0.4.8
+torch>=1.9.0
+torchvision>=0.10.0
+
+# Data Processing
+numpy>=1.19.0
+pandas>=1.1.0
+scipy>=1.5.0
+
+# Visualization & Logging
+tensorboard>=2.5.0
+matplotlib>=3.3.0
+
+# Environment
+gym>=0.18.0
+
+# Optional: GPU support (uncomment if needed)
+# torch-cuda-toolkit>=11.0
+
+# Development
+pytest>=6.0.0
+pytest-cov>=2.10.0
+black>=21.0
+flake8>=3.8.0
